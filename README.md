@@ -6,7 +6,7 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSR17&show_icons=true&theme=onedark)
 
-## Linguagens de programação que uso no meu dia a dia:
+## Linguagens de programação que utilizo:
 <img 
     align="left"
     alt="HTML"

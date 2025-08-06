@@ -13,6 +13,37 @@
     title="HTML"
     width="50px"
     style="padding-right: 15px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-
+<img 
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="50px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left"
+    alt="JAVASCRIPT"
+    title="JAVASCRIPT"
+    width="50px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left"
+    alt="TYPESCRIPT"
+    title="TYPESCRIPT"
+    width="50px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img 
+    align="left"
+    alt="REACT"
+    title="REACT"
+    width="50px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>

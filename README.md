@@ -56,3 +56,11 @@
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<img 
+    align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="50px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>

@@ -8,5 +8,12 @@
 
 ## Linguagens de programação que uso no meu dia a dia:
 <div style="display: incline_block"><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+  />
 </div>

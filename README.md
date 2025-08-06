@@ -7,13 +7,12 @@
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSR17&show_icons=true&theme=onedark)
 
 ## Linguagens de programação que uso no meu dia a dia:
-<div style="display: incline_block"><br/>
-  <img 
+<img 
     align="left"
     alt="HTML"
     title="HTML"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-  />
-</div>
+/>
+

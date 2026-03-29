@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-s-ruschel-450310323/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF00FF?style=for-the-badge&logo=portfolio&logoColor=white)](https://portifolio-ochre-theta-99.vercel.app/)
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSR17&show_icons=true&theme=onedark)
-
 ## Linguagens de programação que utilizo:
 <img 
     align="left"
